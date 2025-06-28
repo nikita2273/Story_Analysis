@@ -57,6 +57,7 @@ Google Colab – Analysis and chart rendering
 
 ## 📌 How to Use
 
-1. Clone the repo  
+## Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/story-dataset-analysis.git
+   git clone [(https://github.com/nikita2273/Story_Analysis.git)]
+   cd Story_Analysis

@@ -1,4 +1,4 @@
-# 📘 Story Dataset Analysis
+# 📘 Story Analysis
 
 This project provides a detailed analysis of a large-scale dataset containing information about fictional stories. It uncovers insights related to genres, formats, readership, pricing, and user engagement metrics such as likes and views.
 
@@ -21,15 +21,15 @@ This project aims to analyze a dataset containing 1 million+ story records. It i
 
 The dataset contains 1,000,000 stories with various metadata. Each record includes:
 
-Title, Author: Basic story information
+**Title, Author:-** Basic story information
 
-Genre: Drama, Horror, Mystery, Romance, Thriller, Fantasy
+**Genre:-** Drama, Horror, Mystery, Romance, Thriller, Fantasy
 
-Format: Hardcover, Paperback, eBook, Audiobook
+**Format:-** Hardcover, Paperback, eBook, Audiobook
 
-Status: Completed, Ongoing, Hiatus
+**Status:-** Completed, Ongoing, Hiatus
 
-Age Group: Children, Young Adult, Adult
+**Age Group:-** Children, Young Adult, Adult
 
 Country, Language
 
@@ -43,15 +43,15 @@ The dataset is stored in a CSV file: ((https://drive.google.com/file/d/1dDP9p06Y
 
 ## 🔧 Technologies Used
 
-Python 
+**Python**
 
-Pandas – Data manipulation and summarization
+**Pandas –** Data manipulation and summarization
 
-NumPy – Numeric operations
+**NumPy –** Numeric operations
 
-Matplotlib – Data visualization
+**Matplotlib –** Data visualization
 
-Google Colab – Analysis and chart rendering
+**Google Colab –** Analysis and chart rendering
 
 ---
 
